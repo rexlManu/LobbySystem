@@ -1,0 +1,14 @@
+name: Lobby
+author: rexlManu
+version: 1.0
+main: de.rexlmanu.lobby.Main
+commands:
+  Lobby:
+    aliases: [set,lobbyy]
+  Spawn:
+    aliases: [hub,lobby,lb]
+  build:
+    aliases: [bau,baumods,buildmode]
+  setjump:
+  removejump:
+  setsign:
